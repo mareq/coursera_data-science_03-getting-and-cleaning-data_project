@@ -1,0 +1,7 @@
+"ActivityId" "OriginalName" "ConvertedName"
+1 "WALKING" "Walking"
+2 "WALKING_UPSTAIRS" "WalkingUpstairs"
+3 "WALKING_DOWNSTAIRS" "WalkingDownstairs"
+4 "SITTING" "Sitting"
+5 "STANDING" "Standing"
+6 "LAYING" "Laying"

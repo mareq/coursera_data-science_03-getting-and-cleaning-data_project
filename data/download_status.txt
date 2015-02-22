@@ -1,0 +1,6 @@
+url.zip <-
+"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+file.zip <-
+"./data/UCI_HAR_Dataset.zip"
+tstamp <-
+"Fri Feb 20 23:59:23 2015"
